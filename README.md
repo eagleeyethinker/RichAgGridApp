@@ -1,10 +1,8 @@
 
-ag-Grid-angular-examples - angular-cli
+angular-ag-grid-typescript
 ==================================
 
-Example of using ag-Grid with Angular and TypeScript
-
-**Note** We only show the "Rich Grid" example in use here. For the full set of examples please look under the **../ngtools_webpack** folder
+Angular rich ag grid which lists employees skills and contact details.
 
 Building
 ========
@@ -20,7 +18,8 @@ To build & run:
 
 - `ng serve`
 
-Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files. You should see the screen as below.
+![angular-rich-ag-grid](https://raw.githubusercontent.com/eagleeyethinker/ImageRepo/master/angular-rich-ag-grid.JPG)
 
 Building
 ========
@@ -38,3 +37,6 @@ To do a AOT build:
 - `ng build --aot`
 
 The build artifacts will be stored in the `dist/` directory.
+
+[Wiki](https://github.com/eagleeyethinker/angular-ag-grid-typescript/wiki)
+

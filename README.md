@@ -1,6 +1,6 @@
 
-angular-ag-grid-typescript
-==================================
+RichAgGridApp
+=============
 
 Angular rich ag grid which lists employees skills and contact details.
 
